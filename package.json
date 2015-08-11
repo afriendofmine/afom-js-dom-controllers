@@ -1,0 +1,21 @@
+{
+  "name": "afom-js-dom-controllers",
+  "version": "0.1.0",
+  "description": "Bind JavaScript \"controller\" to a DOM element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afriendofmine/afom-js-dom-controllers.git"
+  },
+  "author": "Cosma Damiano Trimboli <damiano@afriendofmine.nl>",
+  "bugs": {
+    "url": "https://github.com/afriendofmine/afom-js-dom-controllers/issues"
+  },
+  "homepage": "https://github.com/afriendofmine/afom-js-dom-controllers",
+  "dependencies": {
+    "jquery": "^1.11.3"
+  }
+}
