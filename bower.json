@@ -1,0 +1,19 @@
+{
+  "name": "afom-js-dom-controllers",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/afriendofmine/afom-js-dom-controllers",
+  "authors": [
+    "Cosma Damiano Trimboli <damiano@afriendofmine.nl>"
+  ],
+  "description": "Bind JavaScript \"controller\" to a DOM element",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
