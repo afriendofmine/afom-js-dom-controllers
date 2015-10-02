@@ -1,7 +1,7 @@
 {
   "name": "afom-js-dom-controllers",
   "main": "index.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/afriendofmine/afom-js-dom-controllers",
   "authors": [
     "Cosma Damiano Trimboli <damiano@afriendofmine.nl>"

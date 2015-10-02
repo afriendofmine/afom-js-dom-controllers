@@ -1,6 +1,6 @@
 {
   "name": "afom-js-dom-controllers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bind JavaScript \"controller\" to a DOM element",
   "main": "index.js",
   "scripts": {
